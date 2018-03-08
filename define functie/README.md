@@ -65,3 +65,5 @@ Result:
 Still Testing..
 
 ```
+
+More info about forloops: https://www.tutorialspoint.com/ruby/ruby_loops.htm
