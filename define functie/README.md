@@ -53,3 +53,15 @@ Goodbye Albert, Brenda, Charles, Dave, Engelbert.  Come
 back soon!
 
 ```
+
+#### HelloWorld_For.rb, a test to try a forloop that generate random numbers who are combined with Strings.
+
+To try it out, use 'ruby HelloWorld_For.rb' in a terminal from the same map.
+
+Result:
+
+```
+
+Still Testing..
+
+```
